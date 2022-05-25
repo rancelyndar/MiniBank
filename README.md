@@ -1,0 +1,3 @@
+# MiniBank
+
+## Author - Ivanov Sergey
